@@ -84,6 +84,9 @@ link https://www.figma.com/file/WLm8GyV04ZF8iJWADWerRM/frammhaldskolaleitin?type
 ### Næstu Skref
 - Hægt er að gera annað table og hafa fullt af upplýsingum um brautirnar og áfangana sem eru á brautinni. Ef Við myndum vilja sýna áfanga líka væri best að gera annað noSQL collection til þess að halda í kringum þær upplýsingar þar sem einn áfangi getur verið á fleirri en einni braut. NoSQL databasið sem við erum með núna er gott og hægt að stækka það mikið. Ég myndi bæta inn fleirri gögnum.
 - Bæta við útlit og virkni síðunar.
+
+### Hreimur Næstu Skref :
+- Halda áfram að updata síðu ef ný gögn koma í database. Láta forsíðu sína random facts um skóla, laga css og gera síðunna fallegri :)
 - [Skref 3]
 
 ## Skil á Innu (Verkefni 5)
